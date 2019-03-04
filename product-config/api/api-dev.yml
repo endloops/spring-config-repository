@@ -1,2 +1,3 @@
 server:
-  port: 8123
+  port: 8823
+  context-path: /apis
